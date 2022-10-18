@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{C751492C-BD5A-4334-B0AA-CEEA49D00D48}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReactionGame FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PrimeNumber FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MySecondCSharp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MovingGame FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstCSharp/Program.cs">
+    <Files>
+      <File FileName="../TowerOfHanoi/Program.cs" Line="7" Column="10" />
+      <File FileName="../CountDays/Program.cs" Line="1" Column="1" />
+      <File FileName="../MovingGame/Program.cs" Line="1" Column="1" />
+      <File FileName="../MyCalendar/Program.cs" Line="1" Column="1" />
+      <File FileName="MyFirstCSharp/Program.cs" Line="22" Column="2" />
+      <File FileName="../../../.microsoft/usersecrets/a3630d9b-7785-417a-8da5-0cf3db1f508e/secrets.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp" expanded="True" selected="True">
+            <Node name="CountDays" expanded="True" />
+            <Node name="MovingGame" expanded="True" />
+            <Node name="MyCalendar" expanded="True" />
+            <Node name="MyFirstCSharp" expanded="True" />
+            <Node name="MySecondCSharp" expanded="True" />
+            <Node name="PrimeNumber" expanded="True" />
+            <Node name="ReactionGame" expanded="True" />
+            <Node name="TowerOfHanoi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CountDays FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Vigenere FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MyCalendar FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TowerOfHanoi FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/bin/Debug/net6.0/MyFirstCSharp
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/bin/Debug/net6.0/MyFirstCSharp.deps.json
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/bin/Debug/net6.0/MyFirstCSharp.runtimeconfig.json
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/bin/Debug/net6.0/MyFirstCSharp.dll
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/bin/Debug/net6.0/MyFirstCSharp.pdb
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/MyFirstCSharp.csproj.AssemblyReference.cache
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/MyFirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/MyFirstCSharp.AssemblyInfoInputs.cache
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/MyFirstCSharp.AssemblyInfo.cs
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/MyFirstCSharp.csproj.CoreCompileInputs.cache
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/MyFirstCSharp.dll
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/refint/MyFirstCSharp.dll
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/MyFirstCSharp.pdb
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/MyFirstCSharp.genruntimeconfig.cache
+/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/Debug/net6.0/ref/MyFirstCSharp.dll

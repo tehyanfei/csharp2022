@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/Triangle.csproj": {}
+  },
+  "projects": {
+    "/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/Triangle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/Triangle.csproj",
+        "projectName": "Triangle",
+        "projectPath": "/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/Triangle.csproj",
+        "packagesPath": "/Users/yanfei/.nuget/packages/",
+        "outputPath": "/Users/yanfei/Desktop/CSharp/MyFirstCSharp/MyFirstCSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanfei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
