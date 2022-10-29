@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDays", "CountDays.csproj", "{1946E943-4D8D-41DC-A222-FE6612DC5977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1946E943-4D8D-41DC-A222-FE6612DC5977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1946E943-4D8D-41DC-A222-FE6612DC5977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1946E943-4D8D-41DC-A222-FE6612DC5977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1946E943-4D8D-41DC-A222-FE6612DC5977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50E2CED-A13A-4C84-8EA0-106D225891DA}
+	EndGlobalSection
+EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yanfei/Desktop/CSharp/MySecondCSharp/MySecondCSharp.csproj": {}
+    "/Users/yanfei/Desktop/CSharp/cshw/MySecondCSharp/MySecondCSharp.csproj": {}
   },
   "projects": {
-    "/Users/yanfei/Desktop/CSharp/MySecondCSharp/MySecondCSharp.csproj": {
+    "/Users/yanfei/Desktop/CSharp/cshw/MySecondCSharp/MySecondCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yanfei/Desktop/CSharp/MySecondCSharp/MySecondCSharp.csproj",
+        "projectUniqueName": "/Users/yanfei/Desktop/CSharp/cshw/MySecondCSharp/MySecondCSharp.csproj",
         "projectName": "MySecondCSharp",
-        "projectPath": "/Users/yanfei/Desktop/CSharp/MySecondCSharp/MySecondCSharp.csproj",
+        "projectPath": "/Users/yanfei/Desktop/CSharp/cshw/MySecondCSharp/MySecondCSharp.csproj",
         "packagesPath": "/Users/yanfei/.nuget/packages/",
-        "outputPath": "/Users/yanfei/Desktop/CSharp/MySecondCSharp/obj/",
+        "outputPath": "/Users/yanfei/Desktop/CSharp/cshw/MySecondCSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yanfei/.nuget/NuGet/NuGet.Config"
