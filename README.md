@@ -3,16 +3,12 @@ My CSharp Homework
 
 MyFirstCSharp
 
-MySecondCSharp
-
 MovingGame
 -移动光标小游戏
 
-MyCalendar
--日历
+Calendar2022
 
 CountDays
--计算生日至今的天数
 
 ReactionGame
 
@@ -21,14 +17,9 @@ TowerOfHanoi
 PrimeNumber
 
 Vigenere
+-维吉尼亚加密法
 
 LeastSquares
 -最小二乘法预估GDP
 
-Vigenere(WinForm)
-
-MyNoteBook
-
-MyClock
-
-MyGame
+VigenerePlus(WinForm)
